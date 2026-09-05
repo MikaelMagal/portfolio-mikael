@@ -20,7 +20,7 @@ export default function Hero() {
         evolução de sistemas utilizados em ambiente de produção.
       </p>
       <p className="text-slate-400 leading-relaxed max-w-2xl">
-        Atualmente sou graduando em Sistemas de Informação pela UFOP e
+        Atualmente sou graduado em Sistemas de Informação pela UFOP desde Setembro de 2026 e
         pesquisador na área de Deep Learning, desenvolvendo modelos híbridos
         baseados em CNNs e Vision Transformers para classificação de imagens
         médicas.
